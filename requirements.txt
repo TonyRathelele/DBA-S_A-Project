@@ -6,3 +6,4 @@ fpdf2 # This is a commonly used version of FPDF with good support
 matplotlib
 langdetect
 datetime
+torch
